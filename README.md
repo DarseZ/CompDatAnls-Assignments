@@ -7,3 +7,5 @@ Assignment2: Image recognition, Dimension reduction, Density estimation
 Assignment3: Optimization, Classification algorithms
 
 Assignment4: Support Vector Machines
+
+Assignment5: Regularized regression
